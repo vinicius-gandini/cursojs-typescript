@@ -1,0 +1,12 @@
+{
+  "name": "cursojs-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinicius-gandini/cursojs-typescript.git",
+  "author": "vinicius-gandini <viniciusgandini.goncalves@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
