@@ -1,5 +1,5 @@
 {
     "code-runner.executorMap": {
-        "typescript": "yarn ts-node --files",
+        "typescript": "yarn ts-node --files --transpile-only",
     }
 }
